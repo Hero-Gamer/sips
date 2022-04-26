@@ -1,8 +1,8 @@
 # Consideration for Diversity SIPs
 
-Chairperson: Jude Nelson <jude@stacks.org>
+Chairperson: Jude Nelson <jude@stacks.org>, Hero Gamer <herogamerthesht572@gmail.com> 
 
-Members: Jude Nelson <jude@stacks.org>
+Members: Jude Nelson <jude@stacks.org>, Hero Gamer <herogamerthesht572@gmail.com> 
 
 Discussions-to: https://github.com/stacksgov/sips
 
